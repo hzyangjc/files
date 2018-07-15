@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      利用GitHub Pages搭建你的个人博客               # 标题 
+title:      利用GitHub Pages搭建你的个人博客（上）               # 标题 
 subtitle:   theme provided by Hux 大佬 #副标题
 date:       2018-07-15              # 时间
 author:     YJC                      # 作者
