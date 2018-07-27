@@ -1,3 +1,16 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      利用GitHub Pages搭建你的个人博客（下）               # 标题 
+subtitle:   完善你的个人博客 #副标题
+date:       2018-07-27              # 时间
+author:     YJC                      # 作者
+header-img: img/方格取数.jpeg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - 博客
+    - GitHub
+---
+
 **欢迎回来！继续搭建你的个人博客**
 # 修改about.html
 图中的内容，按照你的情况填写即可。
